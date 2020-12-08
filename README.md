@@ -9,3 +9,6 @@ Various Features are:
 4.Medicoz System
 5.Health Wiki
 
+SCREENSHOT OF HEALTHCARE BOT:
+![healthCare Bot](https://user-images.githubusercontent.com/52649082/101513921-958a9480-3931-11eb-8ba0-f3109fd50cd2.PNG)
+
