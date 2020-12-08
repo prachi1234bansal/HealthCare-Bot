@@ -1,0 +1,47 @@
+Project Running Guidelines:
+1.Master User and Database and File Settings.
+    a.This project have a default master user having following Details
+        user_name=master
+        password=password
+
+To start your project you have to login with your master user and password.
+Whenever you Login with master user_name and password you can able to change it
+and also able to modify settings of your Project, you can also able to create users
+they can also login and use the system.
+Note: Only master user can change the settings.
+
+Setting of Project:
+    In this project you can manage system with following two technique.
+    Note: You have to choose only one of them.This facility only available when you login with
+    your master user. Settings are Given Below.
+    (When you first time login with master user thensystem automatilly
+        ask you to configure the setting whether Database or File Handling)
+
+    1.Setting for mysql database.ileHandling)
+        If you want to run using mysql database then first you have to check
+        following requirement in your Computer or laptop.
+        a.You have to install mysql database in you system. If you get any problem
+          in instalation then follow the step given in youtube link:
+          https://youtu.be/WuBcTJnIuzo
+        b.After the Instalation 4 things are important to know
+            1.Hostname: localhost (default is localhost if not then you have to check
+                what is host for your mysql)
+            2.user id : root (default is root if you have other user then you can also use it)
+
+            3.password: None (default is None means you have to provide correct password
+                to run mysql other wise you cant use the mysql for your project)
+            4.portno: 3306 (default is 3306 no need to change. If your mysql installed
+              on any other portno then you have to mention it)
+        If you have above 4 things are available then you can easily work with mysql system
+    2.FileHandling
+        a.In this mode there is no need for any setting system automatically perform
+            all settings.
+
+
+
+
+
+
+    mysql database
+
+
