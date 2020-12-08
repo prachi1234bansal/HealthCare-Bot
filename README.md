@@ -4,7 +4,7 @@ It is a virtual assistant Medicity Chatbot ,that resolves health-related queries
 Particularly,HealthCare Bot avail the following options to its users:
 Various Features are:
 ## 1.Symptom Checker
-## .Doctor Recommender System
+## 2.Doctor Recommender System
 ## 3.Diet Plan System
 ## 4.Medicoz System
 ## 5.Health Wiki
