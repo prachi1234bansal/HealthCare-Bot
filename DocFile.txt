@@ -17,7 +17,7 @@ Setting of Project:
     (When you first time login with master user thensystem automatilly
         ask you to configure the setting whether Database or File Handling)
 
-    1.Setting for mysql database.ileHandling)
+    1.Setting for mysql databaseFileHandling)
         If you want to run using mysql database then first you have to check
         following requirement in your Computer or laptop.
         a.You have to install mysql database in you system. If you get any problem
@@ -34,8 +34,7 @@ Setting of Project:
               on any other portno then you have to mention it)
         If you have above 4 things are available then you can easily work with mysql system
     2.FileHandling
-        a.In this mode there is no need for any setting system automatically perform
-            all settings.
+        a.In this mode there is no need for any setting system automatically perform all settings.
 
 
 
